@@ -1,0 +1,19 @@
+panier boutons quantité à revoir - ok
+intégrer les codes promos - ok
+voir pour un code qui supprime les frais de livraison - ok
+80 euros frais de port offert en france metropolitaine et avec mondial relais - ok
+enlever identifiants pour garder adresse email - ok
+voir problèmes de connexion + déconnexion (page checkout, page account) - ok
+voir connexion design (page checkout, page account) - ok
+
+chaussures ajouter les pointures
+page de deconnexion ne fonctionnent pas dans le compte client
+ajouter en zone admin bandeau code promo
+ajouter module envoi de newsletter
+fleche sur photo sur fiche produit
+confirmation de commande + facture par mail une fois expedié
+49.90 annuel = frais de port offert
+ajouter date anniversaire jour et mois
+envoyer un mail à l'anniversaire du client avec 10% de réduction
+voir le porte monnaie virtuel
+Créer les scripts dans la page commandes
